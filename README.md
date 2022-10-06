@@ -1,5 +1,5 @@
 # Online Shopping Platform
-This project is an online shopping platform
+This project is an online shopping platform where users can perform series of shopping actions including logging in, searching for desired items, adding items to cart, checking out, etc.
 
 # Main Features
 * Shopping cart
@@ -12,8 +12,12 @@ This project is an online shopping platform
 * PayPal integration
 
 # Main Technologies
+* HTML/CSS/JavaScript
 * React
 * Bootstrap
 * Redux
 * Express
 * Integrating the PayPal API
+
+# Credit
+This project is inspired by [Dennis Ivy](https://www.dennisivy.com).
